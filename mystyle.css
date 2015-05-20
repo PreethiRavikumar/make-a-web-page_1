@@ -1,0 +1,54 @@
+body {
+   padding: 20px 10px;
+   font-family: cursive;
+   max-width: 1000px;
+   margin: 0 auto;	
+   background-image : url(http://img1.wikia.nocookie.net/__cb20140828155500/lords-of-minecraft/images/5/50/Wiki-background);
+}                 
+a {
+    color : saddlebrown;
+}
+
+h1 {
+	text-align: center;
+	color: saddlebrown;
+}
+
+p {
+	margin: 10px;
+}
+.lesson {
+	background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaiCXq6t-xWOxIJxY-84qtsaOs9N7i1-yvqVeTpQsOqfX4Yct5);
+	border-radius: 20px;
+	color: navajowhite;
+	padding: 10px;
+	margin: 10px auto;
+}
+
+h2 {
+	margin: 10px;
+}
+
+.concept {
+	background-image: url(http://www.cwu.edu/~guimondmi/background.jpg);
+	padding: 6px;
+	margin: 30px;
+	border-radius: 20px;
+	color: black;
+}
+
+.concept-title {
+	font-size: 18px;
+	margin: 0px;
+	text-align: center;
+	color: saddlebrown;
+}
+
+.concept-description {
+	font-weight: lighter;
+	margin: 10px;
+}
+.italics {font-style : italic;
+}
+.bold {font-weight : bold;
+}
